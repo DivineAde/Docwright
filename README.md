@@ -7,17 +7,17 @@
     <a href="https://documenso.com"><strong>Learn more »</strong></a>
     <br />
     <br />
-    <a href="https://documen.so/discord">Discord</a>
+    <a href="">Discord</a>
     ·
-    <a href="https://documenso.com">Website</a>
+    <a href="">Website</a>
     ·
-    <a href="https://docs.documenso.com">Documentation</a>
+    <a href="">Documentation</a>
     ·
-    <a href="https://github.com/documenso/documenso/issues">Issues</a>
+    <a href="">Issues</a>
     ·
-    <a href="https://documen.so/live">Upcoming Releases</a>
+    <a href="">Upcoming Releases</a>
     ·
-    <a href="https://documen.so/roadmap">Roadmap</a>
+    <a href="">Roadmap</a>
   </p>
 </p>
 
@@ -37,7 +37,7 @@
 </div>
 
 ## About Documenso
-
+<!-- 
 Signing documents digitally should be fast and easy and should be the best practice for every document signed worldwide. This is technically quite easy today, but it also introduces a new party to every signature: The signing tool providers. While this is not a problem in itself, it should make us think about how we want these providers of trust to work. Documenso aims to be the world's most trusted document-signing tool. This trust is built by empowering you to self-host Documenso and review how it works under the hood.
 
 Join us in creating the next generation of open trust infrastructure.
@@ -98,13 +98,14 @@ Contact us if you are interested in our Enterprise plan for large organizations 
 - [Stripe](https://stripe.com/) - Payments
 - [Biome](https://biomejs.dev/) - Linting & Formatting
 - [Playwright](https://playwright.dev/) - E2E Testing
-
+ 
+--> 
 <!-- - Support for [opensignpdf (requires Java on server)](https://github.com/open-pdf-sign) is currently planned. -->
 
 ## Local Development
 
 ### Requirements
-
+<!--
 To run Documenso locally, you will need
 
 - Node.js (v22 or above)
@@ -235,3 +236,4 @@ This will load environment variables from your `.env` and `.env.local` files.
 ## Repo Activity
 
 ![Repository Activity](https://repobeats.axiom.co/api/embed/622a2e9aa709696f7226304b5b7178a5741b3868.svg)
+-->
