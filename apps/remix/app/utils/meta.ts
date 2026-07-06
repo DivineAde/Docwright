@@ -28,7 +28,7 @@ export const appMetaTags = (title?: MessageDescriptor) => {
     },
     {
       property: 'og:title',
-      content: 'Documenso - The Open Source DocuSign Alternative',
+      content: 'Docwright - The Open Source DocuSign Alternative',
     },
     {
       property: 'og:description',
