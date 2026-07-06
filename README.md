@@ -1,4 +1,4 @@
-<img src="https://github.com/documenso/documenso/assets/13398220/a643571f-0239-46a6-a73e-6bef38d1228b" alt="Documenso Logo">
+<img src="" alt="Docwright Logo">
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
@@ -20,7 +20,7 @@
     <a href="">Roadmap</a>
   </p>
 </p>
-
+<!--
 <p align="center">
    <a href="https://documen.so/discord"><img src="https://img.shields.io/badge/Discord-documen.so/discord-%235865F2" alt="Join Documenso on Discord"></a>
    <a href="https://github.com/documenso/documenso/stargazers"><img src="https://img.shields.io/github/stars/documenso/documenso" alt="Github Stars"></a>
@@ -31,12 +31,13 @@
    </a>
    <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant"></a>
 </p>
+-->
 
 <div align="center">
   <img src="https://github.com/documenso/documenso/assets/13398220/d96ed533-6f34-4a97-be9b-442bdb189c69" style="width: 80%;" />
 </div>
 
-## About Documenso
+## About Docwright
 <!-- 
 Signing documents digitally should be fast and easy and should be the best practice for every document signed worldwide. This is technically quite easy today, but it also introduces a new party to every signature: The signing tool providers. While this is not a problem in itself, it should make us think about how we want these providers of trust to work. Documenso aims to be the world's most trusted document-signing tool. This trust is built by empowering you to self-host Documenso and review how it works under the hood.
 
